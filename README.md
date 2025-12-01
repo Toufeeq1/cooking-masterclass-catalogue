@@ -79,7 +79,8 @@ D -->|"shows modal"| D1[Dialog Element]
 D1 -->|"loops wishlist items"| D2[Saved Course List]
 ```
 ---
-##Image
+
+## Image
 
 <img width="1366" height="1810" alt="screencapture-localhost-5173-2025-11-27-11_40_39" src="https://github.com/user-attachments/assets/a5916f8c-8363-4bd6-b51a-03e4d62da694" />
 
